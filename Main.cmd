@@ -25,7 +25,8 @@ if NOT %SleepTime%==0 (
 	echo Non Numeric characters found. Please enter a valid number 
 	GOTO GetTime
 	)
-
+set /a SleepTime=SleepTime+20
+echo Added 20 seconds to maintain the cycle
 GOTO Execute
 
 :: This script will continue to execute unless user closes the terminal
