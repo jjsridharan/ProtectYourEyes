@@ -7,10 +7,10 @@ https://opto.ca/health-library/the-20-20-20-rule
 https://www.healthline.com/health/eye-health/20-20-20-rule#definition
 
 
-This script is designed in such a way to allow you to follow 20-20-20 rule.
+This script is designed in such a way to follow 20-20-20 rule.
 
-Run ProtectYourEyes.exe when you are start working. 
+Run "ProtectYourEyes.exe" when you are start working. This will alert by playing an alarm tone for the configured time(Default 20 minutes). 
 
 Time is configurable meaning you can set the default time for yourself. (Ex: 15 minutes)
 
-When you are done just close this script or rerun at anytime you want. 
+When you are done just close this application. 
