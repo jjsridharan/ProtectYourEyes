@@ -32,5 +32,5 @@ GOTO Execute
 :: This script will continue to execute unless user closes the terminal
 :Execute
 TIMEOUT /T %SleepTime%
-Start C:\Users\Sridharan\Downloads\Alarm.mp3
+Start %AlarmPath%
 GOTO Execute
